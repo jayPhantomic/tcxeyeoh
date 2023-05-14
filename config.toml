@@ -5,6 +5,9 @@ title = 'TCX IO Site'
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-relearn"
 
+[params]
+# Change default color scheme with a variant one.
+themeVariant = ["relearn-light", "relearn-dark"]
 # For search functionality
 [outputs]
-home = [ "HTML", "RSS", "SEARCH"]
+home = ["HTML", "RSS", "SEARCH", "SEARCHPAGE"]
