@@ -5,6 +5,7 @@
     <link>/</link>
     <description>Recent content on TCX IO - Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <copyright>TCXAdmin (CC BY 4.0)</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

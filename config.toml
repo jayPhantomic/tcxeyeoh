@@ -4,7 +4,7 @@ theme = 'hugo-bearcub'
 title = 'TCX IO Site'
 
 defaultContentLanguage = "en"
-
+copyright = "TCXAdmin (CC BY 4.0)"
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
 
