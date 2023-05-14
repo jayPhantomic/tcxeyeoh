@@ -6,8 +6,10 @@ title = 'TCX IO Site'
 theme = "hugo-theme-relearn"
 
 [params]
-# Change default color scheme with a variant one.
-themeVariant = ["relearn-light", "relearn-dark"]
+  mathJaxInitialize = "{ \"chtml\": { \"displayAlign\": \"left\" } }"
+  description = "Template for Hugo Relearn Theme"
+  author = "Wen-Wei Tseng"
+  themeVariant = [ "relearn-light", "relearn-dark", "learn", "neon", "blue", "green", "red" ]
 # For search functionality
 [outputs]
 home = ["HTML", "RSS", "SEARCH", "SEARCHPAGE"]
