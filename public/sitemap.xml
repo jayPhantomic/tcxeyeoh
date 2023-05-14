@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/basics/index.html</loc>
+    <lastmod>2023-05-14T04:17:36-05:00</lastmod>
+  </url>
+  <url>
+    <loc>/basics/first-content/index.html</loc>
+    <lastmod>2023-05-14T04:17:36-05:00</lastmod>
+  </url>
+  <url>
+    <loc>/basics/second-content/index.html</loc>
+    <lastmod>2023-05-14T04:17:36-05:00</lastmod>
+  </url>
+  <url>
+    <loc>/index.html</loc>
+    <lastmod>2023-05-14T04:17:36-05:00</lastmod>
+  </url>
+  <url>
+    <loc>/categories/index.html</loc>
+  </url>
+  <url>
+    <loc>/tags/index.html</loc>
+  </url>
+</urlset>
